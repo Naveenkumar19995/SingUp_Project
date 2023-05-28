@@ -1,15 +1,13 @@
 # SingUp_Project
 
-<h1>Home Page!!!<h1>
-![HomePage](https://github.com/Naveenkumar19995/SingUp_Project/assets/121006768/20e3a312-3d2f-4b26-aac8-f795b323e3ac)
+<h1 align="center">Home Page!!!<h1>
+(https://github.com/Naveenkumar19995/SingUp_Project/assets/121006768/20e3a312-3d2f-4b26-aac8-f795b323e3ac)
 
 
-  <a href="" rel="noopener">
- <img width=500px height=200px alt="Project logo"></a>
-</p>
+ 
 
 
-<h3 align="center">SingUp_Page</h3>
+
 
 ---
 
@@ -51,27 +49,27 @@ Create User Database: Set up a database to store user information, including use
    
 
 
-#Signin_Page
+<h2 align="center">Signin_Page<h2>
 
 
 ![SignIn](https://github.com/Naveenkumar19995/SingUp_Project/assets/121006768/c90f2288-9803-4155-b273-3d643543d01e)
 
 
 
-#SignUp_Page
+<h2 align="center">SignUp_Page</h2>
 ![SignUp](https://github.com/Naveenkumar19995/SingUp_Project/assets/121006768/c0919c32-2b55-4b26-91cc-4f6ceff85a28)
 
 
 
 
-#MySql code [Data base]
+  <h2 align="center">MySql code [Data base]</h2>
 
 ![SQL](https://github.com/Naveenkumar19995/SingUp_Project/assets/121006768/9dff4350-100a-4170-9cf1-2d52839e2a9a)
 
-<h2>if user gives wrong credentials<h2>
+<h2 align="center">If user gives wrong credentials<h2>
 
 ![Screenshot (54)](https://github.com/Naveenkumar19995/SingUp_Project/assets/121006768/6e5d9512-b235-4f14-863f-9af793492563)
-
+<br>
 
 
 - [MySql](https://www.sql.com/) - Database
