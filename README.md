@@ -1,10 +1,11 @@
 # SingUp_Project
 
-# project-documentation
+<h1>Home Page!!!<h1>
+![HomePage](https://github.com/Naveenkumar19995/SingUp_Project/assets/121006768/20e3a312-3d2f-4b26-aac8-f795b323e3ac)
 
-<p align="center">
+
   <a href="" rel="noopener">
- <img width=500px height=200px src="Homepage.png" alt="Project logo"></a>
+ <img width=500px height=200px alt="Project logo"></a>
 </p>
 
 
@@ -36,57 +37,42 @@ Backend Development:
 Handle HTTP Requests: Set up a backend server using a server-side language or framework such as Node.js with Express, Ruby on Rails, Django, or Flask.
 Create User Database: Set up a database to store user information, including usernames and hashed passwords. Popular choices for database include MySQL
 
-## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-### Prerequisites
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
-
-### Installing
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-<<<<<<< HEAD
+<h2> the softwares i have used for the implementation for this project...<h2>
+ 
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JAVASCRIPT</li>
+    <li>JAVA</li>
+    <li>MYSQL</li>
+  </ul>
+    
+   
 
 
-=======
->>>>>>> ccb3ef98e38119bc8d4d95dd9750ea018ced0479
-## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
+#Signin_Page
 
-## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
 
-## ⛏️ Flow Chart <a name = "flowchart"></a>
+![SignIn](https://github.com/Naveenkumar19995/SingUp_Project/assets/121006768/c90f2288-9803-4155-b273-3d643543d01e)
 
-![bg width:1000px](./swagindiaflowchart.png)
+
+
+#SignUp_Page
+![SignUp](https://github.com/Naveenkumar19995/SingUp_Project/assets/121006768/c0919c32-2b55-4b26-91cc-4f6ceff85a28)
+
+
+
+
+#MySql code [Data base]
+
+![SQL](https://github.com/Naveenkumar19995/SingUp_Project/assets/121006768/9dff4350-100a-4170-9cf1-2d52839e2a9a)
+
+<h2>if user gives wrong credentials<h2>
+
+![Screenshot (54)](https://github.com/Naveenkumar19995/SingUp_Project/assets/121006768/6e5d9512-b235-4f14-863f-9af793492563)
+
+
 
 - [MySql](https://www.sql.com/) - Database
 - [Express](https://expressjs.com/) - Server Framework
@@ -94,7 +80,5 @@ Add additional notes about how to deploy this on a live system.
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+#thanks for the skill to give encouranging me to this project <br>
+  #special thanx for the Bheemesh. 
