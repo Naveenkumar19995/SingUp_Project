@@ -1,6 +1,6 @@
 # SingUp_Project
 
-<h1 align="center">Home Page!!!<h1>
+<h2 align="center">Home Page!!!<h2>
 (https://github.com/Naveenkumar19995/SingUp_Project/assets/121006768/20e3a312-3d2f-4b26-aac8-f795b323e3ac)
 
 
